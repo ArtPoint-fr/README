@@ -27,7 +27,7 @@
   <h3 align="center">ArtPoint</h3>
 
   <p align="center">
-    We promote digital art.
+    We are committed to the promotion of digital art.
     <br />
     <a href="https://artpoint.fr"><strong>The web site »</strong></a>
     <br />
@@ -42,19 +42,21 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## About The Project
+## About The Company
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+### Our observations
 
-Here's why:
+Digital art captivates, fascinates, awakens the senses and develops creativity. As people are increasingly seeking to experience digital art, our wish is to bring this experience to public and private places.
 
-- Your time should be focused on creating something amazing. A project that solves a problem and helps others
-- You shouldn't be doing the same tasks over and over like creating a README from scratch
-- You should implement DRY principles to the rest of your life :smile:
+### Our vision
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+At ART POINT, we aim to increase the opportunities for digital art to meet its audience, to promote artistic creation and democratize access to art. We represent more than 150 international artists with exceptional know-how and offer you the best of their work.
+
+### Our ambition
+
+We enhance your spaces through art. With ART POINT, surprise your customers or your collaborators by integrating real artistic experiences into your space. We seek to put technology at the service of art and make your place unforgettable with a timebound experience!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
