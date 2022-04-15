@@ -78,9 +78,9 @@ A short list of technologies we work on.
 
 ## Contact
 
-Instagram: [artpoint.fr](https://www.instagram.com/artpoint.fr/)
-LinkedIn: [ArtPoint](https://www.linkedin.com/company/14803199/)
-Twitter: [@Artpoint_Paris](https://twitter.com/Artpoint_Paris)
+- Instagram: [artpoint.fr](https://www.instagram.com/artpoint.fr/)
+- LinkedIn: [ArtPoint](https://www.linkedin.com/company/14803199/)
+- Twitter: [@Artpoint_Paris](https://twitter.com/Artpoint_Paris)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
