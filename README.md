@@ -85,8 +85,8 @@ LinkedIn: [ArtPoint](https://www.linkedin.com/company/14803199/)
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[issues-shield]: https://img.shields.io/github/issues/ArtPoint-fr/README.svg?style=for-the-badge
+[issues-url]: https://github.com/ArtPoint-fr/README/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/company/14803199/admin/
 [product-screenshot]: images/screenshot.png
