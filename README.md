@@ -68,9 +68,7 @@ A short list of technologies we work on.
 - [Tezos](https://tezos.com)
 - [Next.js](https://nextjs.org/)
 - [React.js](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
 - [GraphQL](https://graphql.org)
-- [Ruby on Rails](https://rubyonrails.org)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
