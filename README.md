@@ -64,10 +64,10 @@ We enhance your spaces through art. With ART POINT, surprise your customers or y
 
 A short list of technologies we work on.
 
-- [Ethereum](https://ethereum.org/)
 - [Next.js](https://nextjs.org/)
 - [React.js](https://reactjs.org/)
 - [GraphQL](https://graphql.org)
+- [Ethereum](https://ethereum.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
